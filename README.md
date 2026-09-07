@@ -1,17 +1,17 @@
 # The-Bottle-Clock
 A little clock wich look like a bottle
 
-##About :
+## About :
 A radio alarm clock with 4 programmable buttons, featuring an unusual bottle-like shape.
 Project link : https://blare.hackclub.com/
 
-##Features :
+## Features :
 -A screen to look the time
 -4 programmable key for anything like change hour , minute , switch ON/OFF the screen or set a alarm 
 -A compact format
 -Work with usb-c micro controller
 
-##Parts :
+## Parts :
 -1x Seeed XIAO ESP32C3
 -4x MX-Style Keyboard Switches
 -4x White Blank DSA Keycaps
