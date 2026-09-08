@@ -23,6 +23,6 @@ Project link : https://blare.hackclub.com/
 - RTC DS3231 (very soon)
 
 ## Photos :
-![Schematics PCB Image](Photos/Schematics PCB.png)
-![PCB View Image](Photos/PCB View.png)
-![3D View Image](Photos/PCB View.png)
+![Schematics PCB Image](Photos/SchematicsPCB.png)
+![PCB View Image](Photos/PCBView.png)
+![3D View Image](Photos/PCBView.png)
