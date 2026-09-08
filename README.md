@@ -1,5 +1,6 @@
 # The-Bottle-Clock
 A little clock wich look like a bottle
+![Bottle Clock Image](Rendu.png)
 
 ## About :
 A radio alarm clock with 4 programmable buttons, featuring an unusual bottle-like shape.
