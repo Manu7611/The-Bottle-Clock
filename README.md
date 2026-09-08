@@ -25,4 +25,4 @@ Project link : https://blare.hackclub.com/
 ## Photos :
 ![Schematics PCB Image](Photos/SchematicsPCB.png)
 ![PCB View Image](Photos/PCBView.png)
-![3D View Image](Photos/PCBView.png)
+![3D View Image](Photos/3DView.png)
